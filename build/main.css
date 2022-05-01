@@ -13,7 +13,8 @@
 }
 
 nav {
-  display: none;
+  position: sticky;
+  top: 1px
 }
 
 
